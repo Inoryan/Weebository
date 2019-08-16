@@ -11,3 +11,5 @@ pizda
 xui
 
 polsha
+
+kosmos
